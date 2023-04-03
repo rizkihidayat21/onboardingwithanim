@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">isekai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Masuk</string>
+    <string name="next">Next</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="skip">Skip</string>
+
+
+    <string name="register">Daftar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="atur_priori">Atur Prioritas Opini yang Anda \nDapatkan</string>
+    <string name="opini_yang_">Opini yang telah diberikan dapat dibuat \nmenjadi list tugas dan dapat diatur \nprioritasnya.</string>
+    <string name="modifikasi1">Modifikasikan Ide Anda dengan \nMudah</string>
+    <string name="modifikasi2">Modifikasikan desain tersebut berdasarkan \nlist tugas yang tertera.</string>
+    <string name="kolaborasi1">Kolaborasi Bersama Tim untuk \nHasil yang Lebih Baik</string>
+    <string name="kolaborasi2">Undang anggota tim sebanyak-banyaknya \ndan dapatkan hasil desain terbaik.</string>
+</resources>
